@@ -1,0 +1,19 @@
+INDEX VERSION 1.126+/home/user/robotwork/.metadata/.plugins/org.eclipse.jdt.core
+2801402098.index
+1600613930.index
+609808248.index
+2935910272.index
+3717364820.index
+4058203242.index
+3235087758.index
+1333869230.index
+4188981459.index
+3902604261.index
+1404168136.index
+3741986664.index
+1268840202.index
+4220277295.index
+4277271462.index
+1289070855.index
+3832319237.index
+495085450.index

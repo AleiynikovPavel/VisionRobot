@@ -1,0 +1,10 @@
+scripts place: /home/user/robot/robot/python/
+
+Start(password 1029384756):
+sudo python serverHardware2.py
+Next:
+clientIR.py
+
+To kill socket:
+sudo lsof -i :9090
+sudo kill -9 <PID>

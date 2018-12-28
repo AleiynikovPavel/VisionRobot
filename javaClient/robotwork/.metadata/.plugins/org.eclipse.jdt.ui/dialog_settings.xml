@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/home/user/Downloads/opencv-3.4.3/build/bin" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="560,510" key="UserLibraryLoadSaveDialog.size"/>
+	<section name="FatJarPackageWizard">
+		<item value="/home/user/robotwork" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
+		<item value="Main - opencvTest" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="/home/user/cameraNV.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
+		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="/home/user/cameraNV.jar"/>
+			<item value="/home/user/camera.jar"/>
+			<item value="/home/user/camera3.jar"/>
+			<item value="/home/user/camera2.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="/home/user/robotwork.xml"/>
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="0" key="index"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>
